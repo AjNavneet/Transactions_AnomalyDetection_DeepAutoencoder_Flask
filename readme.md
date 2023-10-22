@@ -1,4 +1,4 @@
-# Deep Autoencoders Model for Anomaly Detection in Transcational data
+# Deep Autoencoders Model for Anomaly Detection in Transactional data
 
 ## Project Overview
 

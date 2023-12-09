@@ -1,4 +1,4 @@
-# Deep Autoencoders Model for Anomaly Detection in Transactional data
+# Deep Autoencoders based Anomaly Detection for Transactional data
 
 ## Project Overview
 
@@ -54,21 +54,9 @@ The project follows a structured approach:
 
 3. **output**: Contains pre-trained models saved as .pkl files. These models can be conveniently loaded and used without the need for retraining.
 
-4. **lib**: A reference folder with the original IPython notebook used in the videos.
+4. **lib**: A reference folder with the original IPython notebook.
 
 5. **requirements.txt**: Lists all required libraries and their versions for easy installation using `pip`.
-
----
-
-### Key Concepts Explored
-
-Upon completing this project, participants will gain insights and skills related to:
-
-1. Understanding the concept of autoencoders and their applications in anomaly detection.
-2. Building autoencoder models using Keras for anomaly detection.
-3. Tuning autoencoder models to achieve optimal performance.
-4. Deploying deep learning models as API endpoints using Flask.
-5. Performing real-time anomaly detection using the deployed model.
 
 ---
 
